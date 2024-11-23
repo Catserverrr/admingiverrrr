@@ -1,0 +1,174 @@
+
+-- Script by spherelua/joaco
+-- Script by spherelua/joaco
+-- Script by spherelua/joaco
+-- Script by spherelua/joaco
+-- Script by spherelua/joaco
+-- Script by spherelua/joaco
+-- Script by spherelua/joaco
+-- Script by spherelua/joaco
+
+
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local UI = Instance.new("ScreenGui")
+local Background = Instance.new("Frame")
+local Button = Instance.new("TextButton")
+local Title = Instance.new("TextLabel")
+
+--Properties:
+
+UI.Name = "UI"
+UI.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+UI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Background.Name = "Background"
+Background.Parent = UI
+Background.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+Background.Position = UDim2.new(0.75, 0, 0.576850116, 0)
+Background.Size = UDim2.new(0, 257, 0, 198)
+
+Button.Name = "Button"
+Button.Parent = Background
+Button.BackgroundColor3 = Color3.fromRGB(26, 26, 26)
+Button.Position = UDim2.new(0.107232362, 0, 0.489501029, 0)
+Button.Size = UDim2.new(0, 200, 0, 50)
+Button.Font = Enum.Font.SourceSans
+Button.Text = "Admin remote fucker(ALL GAMES)"
+Button.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button.TextScaled = true
+Button.TextSize = 14.000
+Button.TextWrapped = true
+
+Title.Name = "Title"
+Title.Parent = Background
+Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title.BackgroundTransparency = 1.000
+Title.Position = UDim2.new(0, 0, 0.0909090936, 0)
+Title.Size = UDim2.new(0, 257, 0, 50)
+Title.Font = Enum.Font.Cartoon
+Title.Text = "ADMIN REMOTES ABUSER IN ALL GAMES"
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.TextScaled = true
+Title.TextSize = 14.000
+Title.TextWrapped = true
+
+-- Scripts:
+
+local function WCIEHK_fake_script() -- Button.Script 
+	local script = Instance.new('Script', Button)
+
+	local Button = script.Parent
+	
+	Button.MouseButton1Click:Connect(function()
+
+ for i,v in pairs(game.Players:GetPlayers()) do
+  if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+   spawn(function()
+    local newgui = Instance.new("ScreenGui",v.PlayerGui)
+    newgui.Name = "Screamer"
+    local newimage = Instance.new("ImageLabel",newgui)
+    newimage.Image = "http://www.roblox.com/asset/?id=81055612265767"
+    newimage.Size = UDim2.new(1,1,1,1)
+local sound = Instance.new("Sound")
+ 
+sound.Name = "Sound"
+sound.SoundId = "http://www.roblox.com/asset/?id=2738830850" -- Song ID at end.
+sound.Volume = 0.45 -- Derp (I have quality speakers you might need to change this.)
+sound.Pitch = 1 --Speed of Playback.
+sound.Looped = true
+sound.archivable = false
+ 
+sound.Parent = game.Workspace
+ 
+wait()
+ 
+sound:play()
+    print("Screamed "..v.Name)
+local hint = Instance.new('Hint', workspace) -- Insert a new hint in the Workspace.
+hint.Text = "crashed"
+
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(5628.2783203125, 53.89555358886719, -17259.65234375) 
+
+
+game.Lighting.TimeOfDay = "00:00:00"
+
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+    setclipboard("trolled by spherelua/joaco")
+
+
+    wait(0.2)
+ while true do
+  
+  local part = Instance.new("Part", workspace)
+  
+ end
+
+    while wait(9) do
+
+     newimage.Parent:Destroy()
+
+    end
+   end)
+  end
+ end
+ 
+
+ while true do
+  
+  local part = Instance.new("Part", workspace)
+  
+ end
+
+
+	end)
+	
+end
+coroutine.wrap(WCIEHK_fake_script)()
+ 
+
